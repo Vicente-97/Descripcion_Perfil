@@ -3,9 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicente-97" alt="vicente-97" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+🔭 I’m currently studying on IES Jacaranda
 
-- 📫 How to reach me **vicentevillarreal123@gmail.com**
+🌱 I’m currently learning about Python, Java, JavaScript
+
+👯 I’m looking to collaborate on freelance projects
+
+💬 Ask me about anything, I would try to help and learn
+
+📫 How to reach me **vicentevillarreal123@gmail.com**
 
 <p align="left">
   
