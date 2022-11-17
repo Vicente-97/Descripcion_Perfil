@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicente-97" alt="vicente-97" /></a> </p>
 
+### <div align="center">I'm Vicente, a full-time web application development student💻🚀</div>  
+
 🔭 I’m currently studying on IES Jacaranda
 
 🌱 I’m currently learning about Python, Java, JavaScript
