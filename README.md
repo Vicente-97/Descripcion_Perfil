@@ -16,6 +16,8 @@
 <p align="left">
   
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicente-97)
+  
+  ![Profile views counter](https://komarev.com/ghpvc/?username=Vicente-97&&style=flat-square)  
 
 
 <h3 align="left">Languages and Tools:</h3>
