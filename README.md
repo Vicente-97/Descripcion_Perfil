@@ -9,7 +9,7 @@
 
 <p align="left">
   
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vicente-97)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
