@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vicente)](https://git.io/typing-svg)
 <h3 align="center"></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicente-97" alt="vicente-97" /></a> </p>
