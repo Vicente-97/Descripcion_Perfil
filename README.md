@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile%2C+here+you+will+find+multiple+projects+in+different+languages.+Thank+you+for+the+visit+%3A)" alt="Typing SVG" /></a><h3 align="center"></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicente-97" alt="vicente-97" /></a> </p>
 
